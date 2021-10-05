@@ -24,8 +24,8 @@ the asteroids distruction.
 - Bullets getting frozen in space
 
 #Controls
-Arrow Up - Move ship forward
-Arrow Right - Rotate ship to the right
-Arrow Left - Rotate ship to the left
-Arrow Down - Fire main gun
+- Arrow Up - Move ship forward
+- Arrow Right - Rotate ship to the right
+- Arrow Left - Rotate ship to the left
+- Arrow Down - Fire main gun
 
